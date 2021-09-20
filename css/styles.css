@@ -224,7 +224,7 @@ html,body{
       }
       
 
-      .category{
+      #category{
           padding-bottom: 2rem;
       }
        
@@ -285,7 +285,7 @@ html,body{
               cursor: pointer;
           }
         
-          .footer{
+          #footer{
               height: 100%;
               background: #0f0f0f;
               position: relative;
